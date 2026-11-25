@@ -31,7 +31,7 @@ More than 20 years of applied experience in cryo-electron microscopy (cryo-EM), 
 
 English (C1) · French (B1 spoken / A1 comprehension)
 
-## Projects
+## Links
 
-- [vTEM](https://github.com/fjchichon/vTEM) — virtual transmission electron microscope simulator for training on SerialEM without physical hardware.
-- [cryoATLAS](https://github.com/fjchichon/cryoATLAS) — pipeline and tools for cryo-EM atlas data.
+- [CNB Cryo-EM Facility](https://cryomfacility.cnb.csic.es)
+- [NEXTEM](https://nextem.cnb.csic.es/)

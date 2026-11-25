@@ -31,6 +31,10 @@ More than 20 years of applied experience in cryo-electron microscopy (cryo-EM), 
 
 English (C1) · French (B1 spoken / A1 comprehension)
 
+## Becarios / Students
+
+Dentro del proyecto **NEXTEM** tendremos próximamente una plaza de beca **JAE Intro** disponible. Si eres estudiante de grado interesado/a en instrumentación de microscopía electrónica, cryo-EM o desarrollo de software científico, escríbeme a fjchichon@cnb.csic.es.
+
 ## Links
 
 - [CNB Cryo-EM Facility](https://cryomfacility.cnb.csic.es)
